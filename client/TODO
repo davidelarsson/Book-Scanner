@@ -1,0 +1,13 @@
+Thoughts:
+
+
+Permissions:
+* If using the camera via an Intent, no android.permission.CAMERA is required.
+* Experiment a little with the camera permissions, one has to have the ability
+  to choose which camera to use, right?
+* Don't use external SD card storage, we only need to send the picture to the
+  server!
+
+
+* Maybe use  share via SFTP?
+  * Forget SCP or SFTP for now. Use FTP?

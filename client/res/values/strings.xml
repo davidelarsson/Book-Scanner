@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Book Scanner</string>
+    <string name="snap_button">Snap!</string>
+    <string name="rotate_button">Rotate!</string>
+    <string name="action_settings">Settings</string>
+    <string name="topic">Welcome!</string>
+    <string name="switch_camera_button">Switch camera!</string>
+
+</resources>
